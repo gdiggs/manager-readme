@@ -49,6 +49,10 @@ Every manager is different. In an effort to share a bit of how I operate as a ma
 - **Lean Teams**: I have seen what small teams can accomplish, and like to find new ways for us to work well together before trying to expand the team.
 - **Empowerment**: I care that everyone has the ability to make decisions and share their opinions. To that end, I try to listen more, speak less, and ask questions, to give you the space to come up with a decision, rather than telling you an answer.
 
+## Finding Opportunities
+
+A big part of my management philosophy revolves around finding opportunities for the people on my team. To that end, I try to keep abreast of people's interests and career goals, to find projects and roles that will further those goals and interests. I am generally willing to take a slight hit on speed of delivery for a project if it means that we can grow as a team by sharing knowledge more.
+
 ## A few things I'm pretty good at
 
 - Interviewing and hiring
